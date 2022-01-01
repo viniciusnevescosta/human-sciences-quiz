@@ -1,0 +1,13 @@
+Consulta com alterar e excluir e relatórios.
+
+PHP:
+Um script php para receber esses dados e salvar na tabela prova, (A tabela da prova deve salvar o nome do aluno, data da prova e a nota que o aluno tirou), também deve informar se a resposta está certa ou errada, e se estiver errada deverá dizer qual seria a correta.
+
+
+FAZER:
+
+	responsive (max width, tirar padding)
+
+	fix units (vw, px...)
+	
+	Hash passwords
