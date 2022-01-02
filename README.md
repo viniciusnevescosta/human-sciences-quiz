@@ -4,13 +4,13 @@
   <img width="600" src="assets/to_readme/splashtogithub.png"
 </p>
 
-![GitHub language count](https://img.shields.io/github/languages/count/Jolonte/form-ciencias-humanas)
-![GitHub top language](https://img.shields.io/github/languages/top/Jolonte/form-ciencias-humanas)
-![GitHub license](https://img.shields.io/github/license/Jolonte/form-ciencias-humanas)
-
 <p align="center">
   <img width="800" height="480" src="assets/to_readme/humanform_git.GIF"
 </p>
+  
+![GitHub language count](https://img.shields.io/github/languages/count/Jolonte/form-ciencias-humanas)
+![GitHub top language](https://img.shields.io/github/languages/top/Jolonte/form-ciencias-humanas)
+![GitHub license](https://img.shields.io/github/license/Jolonte/form-ciencias-humanas)
 
 ### 🚀 Technologies
 - [Lunacy](https://icons8.com.br/lunacy)
