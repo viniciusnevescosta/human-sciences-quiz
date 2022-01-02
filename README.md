@@ -3,7 +3,7 @@
 <p align="center">
   <img width="600" src="assets/to_readme/splashtogithub.png"
 </p>
-
+  
 <p align="center">
   <img width="800" height="480" src="assets/to_readme/humanform_git.GIF"
 </p>
@@ -30,6 +30,9 @@ This is my biggest project so far, it's a test site with the human sciences them
 
 ### 🔖 Layout
 Here is the design [link](https://www.figma.com/file/zjzYIsjdEr6OnfpNBXEfRX/form-ciencias-humanas?node-id=0%3A1) for that project.
+  
+### 🎥 Video
+Here is a [video](https://youtu.be/LpVQEKqS0vc) showing the site's content.
 
 ### 📝 License
 This project is under the MIT license. See the file for more details.
