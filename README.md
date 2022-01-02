@@ -1,14 +1,33 @@
 # form-ciencias-humanas
- 
-Usei desing proprio.
 
-<!-- 
-        Illustration by <a href="https://icons8.com/illustrations/author/6023f2cd123f99000e63cdd1">Anna Antipina</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
-        Illustration by Anna Antipina from Ouch! 
+<p align="center">
+  <img width="600" src="assets/to_readme/splashtogithub.png"
+</p>
 
-        Illustration by <a href="https://icons8.com/illustrations/author/5ddea3b001d036001345e529">Dmitry Nikulnikov</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
-        Illustration by Dmitry Nikulnikov from Ouch!   
-    -->
+<p align="center">
+  <img width="800" height="480" src="assets/to_readme/wikicraft_git.gif"
+</p>
+  
 
-Biblioteca de animações: 
-https://animate.style/
+### 🚀 Technologies
+- [Lunacy](https://icons8.com.br/lunacy)
+- HTML5
+- CSS3
+- PHP7
+- MYSQL
+- [Animate.css](https://animate.style/)
+
+Illustrations from [icons8](https://icons8.com/illustrations):
+- [Earth care](https://icons8.com/illustrations/illustration/flame-earth-care) from [Anna Antipina](https://icons8.com/illustrations/author/6023f2cd123f99000e63cdd1)
+- [Earth and Moon](https://icons8.com/illustrations/illustration/mirage-711) from [
+Dmitry Nikulnikov](https://icons8.com/illustrations/author/5ddea3b001d036001345e529)
+
+### 💻 Project
+This is my biggest project so far, it's a test site with the human sciences theme. To take the test, you need to create an account and login. Right after taking the test, you are redirected to your account page, which displays your data and your final grade.
+
+### 🔖 Layout
+Here is the design [link](https://www.figma.com/file/zjzYIsjdEr6OnfpNBXEfRX/form-ciencias-humanas?node-id=0%3A1) for that project.
+
+### 📝 Licença
+This project is under the MIT license. See the file for more details.
+https://github.com/Jolonte/WikiCraft/releases/tag/v1.0
