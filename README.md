@@ -8,6 +8,9 @@
   <img width="800" height="480" src="assets/to_readme/humanform_git.GIF"
 </p>
   
+![GitHub language count](https://img.shields.io/github/languages/count/Jolonte/form-ciencias-humanas)
+![GitHub top language](https://img.shields.io/github/languages/top/Jolonte/form-ciencias-humanas)
+![GitHub license](https://img.shields.io/github/license/Jolonte/form-ciencias-humanas)
 
 ### 🚀 Technologies
 - [Lunacy](https://icons8.com.br/lunacy)
@@ -28,6 +31,6 @@ This is my biggest project so far, it's a test site with the human sciences them
 ### 🔖 Layout
 Here is the design [link](https://www.figma.com/file/zjzYIsjdEr6OnfpNBXEfRX/form-ciencias-humanas?node-id=0%3A1) for that project.
 
-### 📝 Licença
+### 📝 License
 This project is under the MIT license. See the file for more details.
 https://github.com/Jolonte/WikiCraft/releases/tag/v1.0
