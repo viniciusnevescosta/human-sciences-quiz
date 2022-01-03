@@ -19,7 +19,6 @@
 - PHP7
 - MYSQL
 - [Animate.css](https://animate.style/)
-- [Vercel-Php](https://github.com/juicyfx/vercel-php)
 
 Illustrations from [icons8](https://icons8.com/illustrations):
 - [Earth care](https://icons8.com/illustrations/illustration/flame-earth-care) from [Anna Antipina](https://icons8.com/illustrations/author/6023f2cd123f99000e63cdd1)
@@ -28,6 +27,10 @@ Dmitry Nikulnikov](https://icons8.com/illustrations/author/5ddea3b001d036001345e
 
 ### 💻 Project
 This is my biggest project so far, it's a test site with the human sciences theme. To take the test, you need to create an account and login. Right after taking the test, you are redirected to your account page, which displays your data and your final grade.
+
+You can access the project's deploy through this [link](https://form-ciencias-humanas.vercel.app/).
+
+⚠ Warning: Only the static landing page is currently available due to lack of knowledge and time to host the complete project.
 
 ### 🔖 Layout
 Here is the design [link](https://www.figma.com/file/zjzYIsjdEr6OnfpNBXEfRX/form-ciencias-humanas?node-id=0%3A1) for that project.
