@@ -19,7 +19,6 @@
 - PHP7
 - MYSQL
 - [Animate.css](https://animate.style/)
-- [Vercel-Php](https://github.com/juicyfx/vercel-php)
 
 Illustrations from [icons8](https://icons8.com/illustrations):
 - [Earth care](https://icons8.com/illustrations/illustration/flame-earth-care) from [Anna Antipina](https://icons8.com/illustrations/author/6023f2cd123f99000e63cdd1)
