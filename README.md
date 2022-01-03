@@ -36,4 +36,3 @@ Here is a [video](https://youtu.be/LpVQEKqS0vc) showing the site's content.
 
 ### 📝 License
 This project is under the MIT license. See the file for more details.
-https://github.com/Jolonte/WikiCraft/releases/tag/v1.0
