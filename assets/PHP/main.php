@@ -20,7 +20,6 @@
 </head>
 
 <body>
-    <div class="container">
 
         <!-- -------- HEADER -------- -->
         <header>
@@ -46,7 +45,7 @@
            </div>
         </section>
         <!-- -------- MAIN -------- -->
-        
+    <div class="container">
         <main class="main">
             <section class="about" id="about">
                 <article class="desc">
@@ -103,16 +102,17 @@
         </footer>
 
         <!-- -------- MODAL -------- -->
-
+        
         <div id="modal-login" class="modal-container">
             <div class="modal">
                 <div class="img2">
-                    <img src="../IMGS/img2.svg" alt="Earth care" draggable="false">
+                    <div class="imagem">
+                    </div>
                 </div>
                 <div class="login">
                     <button class="fechar">x</button>
                     <h2 class="subtitulo">Login</h2>
-                    <form method="POST" action="login.php">
+                    <form method="POST" action="assets/PHP/login.php">
 
                         <label for="email">
                             <input type="email" id="email-login" name="email" placeholder="Email">
@@ -135,7 +135,7 @@
     </div>
 
     <!-- -------- MAIN JS -------- -->
-    <script src="../JS/main.js"></script>
+    <script src="/assets/JS/main.js"></script>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script>
