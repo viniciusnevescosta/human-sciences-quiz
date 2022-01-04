@@ -16,7 +16,7 @@
 - [Lunacy](https://icons8.com.br/lunacy)
 - HTML5
 - CSS3
-- PHP7
+- PHP8
 - MYSQL
 - [Animate.css](https://animate.style/)
 
