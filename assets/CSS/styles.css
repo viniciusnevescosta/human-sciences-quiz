@@ -465,7 +465,6 @@ footer ul li a:active {
     display: flex;
     flex-direction: column;
     width: 100%;
-    height: 100%;
     border-radius: 3rem;
     background: #A29BFE;
     padding: 4vh 2vw 4vh 2vw;
@@ -1137,6 +1136,7 @@ and (max-height : 479px) {
 
 	.questoes-prova {
 		border-radius: 3rem;
+		height: none;
 		padding: 5vh 5vw 5vh 5vw;
 	}
 
