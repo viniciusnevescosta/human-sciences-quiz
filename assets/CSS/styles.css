@@ -582,9 +582,9 @@ main .painel-conta p {
 @media (min-width:320px) and (max-width:479px){ 
 /* -------- VARIABLES -------- */
 	:root {  
-		--big-font-size: 4rem; 
+		--big-font-size: 3rem; 
 		--medium2-font-size: 1.5rem;
-		--regular-font-size: 1.2rem;
+		--regular-font-size: 1rem;
 		--light-font-size: 1.05rem;
 	}
 
@@ -699,7 +699,7 @@ main .painel-conta p {
 	:root {  
 		--big-font-size: 4.1rem; 
 		--medium2-font-size: 1.8rem;
-		--regular-font-size: 1.4rem;
+		--regular-font-size: 1.2rem;
 		--light-font-size: 1.05rem;
 	}
 
