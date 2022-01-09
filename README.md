@@ -25,7 +25,7 @@ Illustrations from [icons8](https://icons8.com/illustrations):
 - [Earth and Moon](https://icons8.com/illustrations/illustration/mirage-711) from [
 Dmitry Nikulnikov](https://icons8.com/illustrations/author/5ddea3b001d036001345e529)
 
-Deploy using: [heroku](https://www.heroku.com/) and [ClearDB](https://www.cleardb.com/)
+Deploy using: [Heroku](https://www.heroku.com/) and [ClearDB](https://www.cleardb.com/)
 
 ### 💻 Project
 This is my biggest project so far, it's a test site with the human sciences theme. To take the test, you need to create an account and login. Right after taking the test, you are redirected to your account page, which displays your data and your final grade.
