@@ -96,7 +96,7 @@
         <footer>
             <nav>
                 <ul>
-                    <li><a href="https://github.com/Jolonte" target="_blank">©Vinícius Neves Costa</a></li>
+                    <li><a href="https://github.com/Jolonte" target="_blank" rel="noreferrer noopener">©Vinícius Neves Costa</a></li>
                 </ul>
             </nav>
         </footer>
@@ -112,7 +112,7 @@
                 <div class="login">
                     <button class="fechar">x</button>
                     <h2 class="subtitulo">Login</h2>
-                    <form method="POST" action="assets/PHP/login.php">
+                    <form method="POST" action="login.php">
 
                         <label for="email">
                             <input type="email" id="email-login" name="email" placeholder="Email">
@@ -135,7 +135,7 @@
     </div>
 
     <!-- -------- MAIN JS -------- -->
-    <script src="/assets/JS/main.js"></script>
+    <script src="../JS/main.js"></script>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script>

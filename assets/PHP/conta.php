@@ -37,12 +37,10 @@
         </header>
 
         <section class="hero-conta">
-            <div class="title">
                 <h1>BEM-VINDO!</h1>
                 <div class="status-conta">
                     <h2>status: <?php echo $_SESSION['status']?></h2>
                 </div>
-            </div>
         </section>
 
         <!-- -------- MAIN -------- -->
