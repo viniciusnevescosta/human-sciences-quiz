@@ -1,5 +1,6 @@
 vendor
 .vercel
+vercel.json
 composer.json
 composer.lock
 assets/PHP/conexao.php
