@@ -33,7 +33,7 @@ This is my biggest project so far, it's a test site with the human sciences them
 Here is the deploy [link](https://prova-cienciashumanas.herokuapp.com/).
 
 ### 🔖 Layout
-Here is the design [link](https://www.figma.com/file/zjzYIsjdEr6OnfpNBXEfRX/form-ciencias-humanas?node-id=0%3A1) for that project.
+Here is the design [link](https://www.figma.com/community/file/1080126512858924617/Landing-Page---Login-%2F-Singup---Panel---Form) for that project.
   
 ### 🎥 Video
 Here is a [video](https://youtu.be/LpVQEKqS0vc) showing the site's content.
