@@ -8,35 +8,34 @@
   <img width="800" height="480" src="assets/to_readme/humanform_git.GIF"
 </p>
   
-![GitHub language count](https://img.shields.io/github/languages/count/Jolonte/form-ciencias-humanas)
-![GitHub top language](https://img.shields.io/github/languages/top/Jolonte/form-ciencias-humanas)
-![GitHub license](https://img.shields.io/github/license/Jolonte/form-ciencias-humanas)
+# Human Sciences Quiz Web App
 
-### 🚀 Technologies
-- [Lunacy](https://icons8.com.br/lunacy)
-- HTML5
-- CSS3
-- PHP8
-- MYSQL
-- [Animate.css](https://animate.style/)
+This web application is a human sciences quiz created using PHP and MySQL. The application includes a landing page, user account creation, and the ability to take a quiz, with the final score being returned to the user.
 
-Illustrations from [icons8](https://icons8.com/illustrations):
-- [Earth care](https://icons8.com/illustrations/illustration/flame-earth-care) from [Anna Antipina](https://icons8.com/illustrations/author/6023f2cd123f99000e63cdd1)
-- [Earth and Moon](https://icons8.com/illustrations/illustration/mirage-711) from [
-Dmitry Nikulnikov](https://icons8.com/illustrations/author/5ddea3b001d036001345e529)
+## Project Status
 
-Deploy using: [Heroku](https://www.heroku.com/) and [ClearDB](https://www.cleardb.com/)
+⚠️ **This project is currently inactive, and there is no scheduled maintenance. It was developed as part of a school assignment, and there are no plans for future updates. Use it at your own discretion.**
 
-### 💻 Project
-This is my biggest project so far, it's a test site with the human sciences theme. To take the test, you need to create an account and login. Right after taking the test, you are redirected to your account page, which displays your data and your final grade.
+## Author
 
-Here is the deploy [link](https://prova-cienciashumanas.herokuapp.com/).
+- Vinícius Neves Costa
 
-### 🔖 Layout
-Here is the design [link](https://www.figma.com/community/file/1080126512858924617/Landing-Page---Login-%2F-Singup---Panel---Form) for that project.
-  
-### 🎥 Video
-Here is a [video](https://youtu.be/LpVQEKqS0vc) showing the site's content.
+## Usage
 
-### 📝 License
-This project is under the MIT license. See the file for more details.
+1. Visit the landing page.
+2. Create a user account.
+3. Take the quiz to receive your final score.
+
+## Installation
+
+1. Clone the repository.
+2. Set up a PHP environment.
+3. Import the MySQL database schema provided in the `database` directory.
+
+## Contributing
+
+As this project is not actively maintained, contributions are not currently accepted.
+
+## License
+
+This project is licensed under the MIT license.
