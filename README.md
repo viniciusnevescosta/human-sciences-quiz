@@ -1,6 +1,18 @@
 # Human Sciences Quiz
 
+![Archived(8)](https://github.com/viniciusnevescosta/web-app-quiz/assets/66970818/0ef3c9dc-d908-409c-9fce-4ddae24f2f3d)
+
 Bem-vindo ao repositório do meu projeto "Human Sciences Quiz"! Aqui, desenvolvi um web app para uma prova online de ciências humanas, proporcionando uma introdução envolvente ao fascinante mundo das humanidades.
+
+- [Read in english](en_README.md)
+
+## Sumário de Conteúdos
+
+- [Visão Geral](#visão-geral)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Funcionalidades](#funcionalidades)
+- [Como Testar](#como-testar)
+- [Aprendizados Adquiridos](#aprendizados-adquiridos)
 
 ## Visão Geral
 
@@ -31,6 +43,8 @@ Este projeto é uma iniciativa educativa que visa tornar a aprendizagem de ciên
    - Cada pergunta aborda um tema específico das ciências humanas, proporcionando uma exploração educativa.
 
 ## Como Testar
+
+### Localmmente
 
 1. **Clone o Repositório:**
    ```bash
