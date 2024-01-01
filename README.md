@@ -1,4 +1,4 @@
-# Human Sciences Quiz
+# Web App Quiz
 
 ![Archived(8)](https://github.com/viniciusnevescosta/web-app-quiz/assets/66970818/0ef3c9dc-d908-409c-9fce-4ddae24f2f3d)
 
