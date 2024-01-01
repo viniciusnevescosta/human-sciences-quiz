@@ -44,7 +44,7 @@ Este projeto é uma iniciativa educativa que visa tornar a aprendizagem de ciên
 
 ## Como Testar
 
-### Localmmente
+### Localmente
 
 1. **Clone o Repositório:**
    ```bash
