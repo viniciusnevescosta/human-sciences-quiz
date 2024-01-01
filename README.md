@@ -48,7 +48,7 @@ Este projeto é uma iniciativa educativa que visa tornar a aprendizagem de ciên
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/viniciusnevescosta/schoolwork-quiz-webapp.git
+   git clone https://github.com/viniciusnevescosta/web-app-quiz.git
    ```
 
 2. **Configure o Ambiente:**
