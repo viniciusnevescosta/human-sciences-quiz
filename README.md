@@ -41,7 +41,7 @@ Este projeto é uma iniciativa educativa que visa tornar a aprendizagem de ciên
    - Configure um servidor web local com suporte a PHP e MySQL.
 
 3. **Importe o Banco de Dados:**
-   - Importe o arquivo `quiz_db.sql` para criar o banco de dados necessário.
+   - Importe o arquivo `forms.sql` para criar o banco de dados necessário.
 
 4. **Execute o Web App:**
    - Navegue até o diretório do projeto e inicie o servidor local.
