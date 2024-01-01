@@ -1,39 +1,61 @@
-<p align="center">
-  <img width="600" src="assets/to_readme/splashtogithub.png"
-</p>
-  
+# Human Sciences Quiz
+
+Bem-vindo ao repositório do meu projeto "Human Sciences Quiz"! Aqui, desenvolvi um web app para uma prova online de ciências humanas, proporcionando uma introdução envolvente ao fascinante mundo das humanidades.
+
+## Visão Geral
+
 <p align="center">
   <img width="800" height="480" src="assets/to_readme/humanform_git.GIF"
 </p>
-  
-# Human Sciences Quiz Web App
 
-This web application is a human sciences quiz created using PHP and MySQL. The application includes a landing page, user account creation, and the ability to take a quiz, with the final score being returned to the user.
+Este projeto é uma iniciativa educativa que visa tornar a aprendizagem de ciências humanas mais interativa e divertida. O web app apresenta uma prova online com perguntas envolventes e informativas sobre temas relacionados às ciências humanas.
 
-## Project Status
+## Tecnologias Utilizadas
 
-⚠️ **This project is currently inactive, and there is no scheduled maintenance. It was developed as part of a school assignment, and there are no plans for future updates. Use it at your own discretion.**
+- **PHP:** Uma linguagem de script do lado do servidor amplamente utilizada para o desenvolvimento web.
+- **MySQL:** Um sistema de gerenciamento de banco de dados relacional.
+- **JavaScript, CSS e HTML:** Tecnologias web fundamentais para a criação de interfaces interativas.
 
-## Author
+## Funcionalidades
 
-- Vinícius Neves Costa
+1. **Prova Online:**
+   - Participe de uma prova de ciências humanas com perguntas abrangentes e informativas.
 
-## Usage
+2. **Introdução Divertida:**
+   - A landing page oferece uma introdução envolvente ao mundo das humanidades, incentivando os usuários a participarem da prova.
 
-1. Visit the landing page.
-2. Create a user account.
-3. Take the quiz to receive your final score.
+3. **Avaliação Instantânea:**
+   - Após concluir a prova, os usuários recebem uma avaliação instantânea com pontuações e feedback.
 
-## Installation
+4. **Exploração de Temas:**
+   - Cada pergunta aborda um tema específico das ciências humanas, proporcionando uma exploração educativa.
 
-1. Clone the repository.
-2. Set up a PHP environment.
-3. Import the MySQL database schema provided in the `database` directory.
+## Como Testar
 
-## Contributing
+1. **Clone o Repositório:**
+   ```bash
+   git clone https://github.com/viniciusnevescosta/schoolwork-quiz-webapp.git
+   ```
 
-As this project is not actively maintained, contributions are not currently accepted.
+2. **Configure o Ambiente:**
+   - Configure um servidor web local com suporte a PHP e MySQL.
 
-## License
+3. **Importe o Banco de Dados:**
+   - Importe o arquivo `quiz_db.sql` para criar o banco de dados necessário.
 
-This project is licensed under the MIT license.
+4. **Execute o Web App:**
+   - Navegue até o diretório do projeto e inicie o servidor local.
+
+5. **Participe da Prova:**
+   - Acesse o web app e participe da prova online.
+
+## Aprendizados Adquiridos
+
+Durante o desenvolvimento deste projeto, adquiri conhecimentos importantes, incluindo:
+
+- 🖥 Implementação de um sistema de quiz online utilizando PHP, MySQL e JavaScript.
+- 📊 Desenvolvimento de uma interface interativa e responsiva para a prova.
+
+---
+
+**Nota:** Este projeto foi arquivado pois representa um estudo concluído com sucesso. Não há planos de desenvolvimento adicional, pois seus objetivos foram alcançados com êxito.
